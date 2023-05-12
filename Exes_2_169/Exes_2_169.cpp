@@ -21,7 +21,6 @@ void input()
 	}
 }
 
-
 void BinarySearch()
 {
 	while (rifqi[mid] = n)
