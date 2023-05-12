@@ -48,4 +48,5 @@ int main()
 {
 	input();
 	BinarySearch();
+	return 0;
 }
