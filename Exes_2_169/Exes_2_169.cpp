@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int rifqi[38];
-int n;
+int rifqi[38];    //Array dengan jumlah elemen yang didapatkan dari 15+3+20-4*5+10+5+2+3 = 38
+int n;            
 int i;
 int lowerbond = 0;
 int upperbond = n - 1;
